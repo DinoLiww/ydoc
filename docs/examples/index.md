@@ -11,6 +11,30 @@ git clone git@github.com:YMFE/ydoc.git
 cd ydoc/examples
 ```
 
+| 2312 | 1231 |
+| ---- | ---- |
+| 121  | 12   |
+
+- [ ] to-do 
+  - [ ] wang e-comm
+  - [ ] 
+- [ ] xm
+  - [ ] wallet wireframe
+  - [ ] data exchange with rm
+  - [x] wkly review & rpt
+  - [x] rebursement to weili
+  
+  ```sequence
+Title: 多彩物联合作商蓝图
+多彩物联-->果行: 商务合作
+多彩物联-->华亿: 商务合作
+多彩物联-->facebox: 商务合作
+多彩物联-->订单来了PMS: 商务合作
+
+Note over 多彩物联: 接口定义\n服务流程定义
+
+多彩物联->果行: 技术合作，接口敲定
+
 ydoc/examples 目录下有若干 Demo，你可以进入各个 Demo 的目录中执行 ```YDoc build``` 来进行本地调试。
 
 | Demo 名称 | 描述 |
